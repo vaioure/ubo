@@ -1,7 +1,8 @@
 ! Title: Personal uBlock filters
 
 !#if env_mobile
-~loqed.com,~telekom.sk##body
+*##body
+loqed.com,telekom.sk#@#body
 !#else
 duckduckgo.com,google.com$image
 !#endif
