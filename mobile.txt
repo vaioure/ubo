@@ -1,3 +1,6 @@
+! Title: Personal uBlock filters for mobile devices
+! Description: Removes the body of all pages except ones deemed absolutely necessary
+
 *##body
 
 loqed.com,telekom.sk#@#body
