@@ -4,5 +4,5 @@
 *##body
 loqed.com,telekom.sk#@#body
 !#else
-duckduckgo.com,google.com$image
+duckduckgo.com,google.com##img
 !#endif
